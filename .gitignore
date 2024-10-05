@@ -1,0 +1,6 @@
+e-commerce-backend\env
+e-commerce-backend\node_modules
+frontend\node_modules
+frontend\my-react-app\*.json
+frontend\*.json
+e-commerce-backend\__pycache__
